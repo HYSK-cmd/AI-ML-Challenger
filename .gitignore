@@ -4,4 +4,7 @@ model_checkpoints
 .venv
 *.parquet
 *.pt
-*.pth
+*.pth.venv/
+data/
+__pycache__/
+.ipynb_checkpoints/
