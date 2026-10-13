@@ -8,3 +8,6 @@ model_checkpoints
 data/
 __pycache__/
 .ipynb_checkpoints/
+
+# ML-From-Scratch
+ML-From-Scratch/.venv/
