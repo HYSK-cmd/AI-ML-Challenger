@@ -101,7 +101,6 @@ pyparsing==3.3.1
 python-dateutil==2.9.0.post0
 python-json-logger==4.2.0
 pytz==2025.2
-pywinpty==3.0.5
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
@@ -120,13 +119,13 @@ setuptools==84.0.0
 six==1.17.0
 soupsieve==2.10
 stack-data==0.6.3
-sympy==1.13.1
+sympy==1.14.0
 terminado==0.18.1
 threadpoolctl==3.7.0
 tiktoken==0.12.0
 tinycss2==1.5.1
 tokenizers==0.22.1
-torch==2.6.0+cu124
+torch==2.9.1
 tornado==6.5.4
 tqdm==4.67.1
 traitlets==5.14.3
