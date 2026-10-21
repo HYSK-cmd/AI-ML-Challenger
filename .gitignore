@@ -14,3 +14,6 @@ ML-From-Scratch/.venv/
 
 handson-ml3/.Trash-*/
 handson-ml3/.virtual_documents/
+
+# trained models / large artifacts (GitHub 100MB limit)
+handson-ml3/*.pkl
