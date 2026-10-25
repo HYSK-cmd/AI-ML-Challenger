@@ -1,0 +1,6 @@
+This folder contains material derived from "handson-ml3"
+(https://github.com/ageron/handson-ml3), Copyright Aurélien Géron,
+licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Changes: chapter notebooks were worked through and modified with my own code and notes,
+and the Docker setup was adjusted (amd64 platform, JupyterLab LSP, start scripts).
