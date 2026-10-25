@@ -4,7 +4,6 @@ model_checkpoints
 .venv
 *.parquet
 *.pt
-*.pth.venv/
 data/
 __pycache__/
 .ipynb_checkpoints/
@@ -15,3 +14,10 @@ ML-From-Scratch/.venv/
 handson-ml3/.Trash-*/
 handson-ml3/.virtual_documents/
 
+
+# secrets
+.env
+.env.*
+!handson-ml3/docker/.env
+*.pem
+*.key
