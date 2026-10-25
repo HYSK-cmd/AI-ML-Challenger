@@ -1,0 +1,7 @@
+.mypy_cache
+model_checkpoints
+.DS_Store
+.venv
+*.parquet
+*.pt
+*.pth
