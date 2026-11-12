@@ -21,3 +21,4 @@ handson-ml3/.virtual_documents/
 !handson-ml3/docker/.env
 *.pem
 *.key
+*.mmap
